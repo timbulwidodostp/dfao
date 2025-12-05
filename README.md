@@ -3,6 +3,8 @@ Augmented Dickey-Fuller unit root test with additive outliers Use dfao With STAT
 
 Perform Dickey-Fuller unit root test in the presence of additive outliers Use dfao With STATA 19
 
+https://www.youtube.com/watch?v=BRdQX4MpQpw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
